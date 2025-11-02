@@ -48,10 +48,10 @@ ISA-HOME/
 
 ## Equipo de desarrollo
 
-- **Pablo Alonso Romero** - Scrum Master
+- **Pablo Alonso Romero (Pabalo10)** - Scrum Master
 - **Marina Triviño de las Heras (maritriv)** – Team Advocate
-- **Álvaro Ferreño Iglesias** - GitHub Expert
-- **Mario López Díaz** - Product Owner
+- **Álvaro Ferreño Iglesias (Alvaro8944)** - GitHub Expert
+- **Mario López Díaz (ARTEMVARTANOV)** - Product Owner
 
 Proyecto desarrollado en el marco de la asignatura **Ética e Inteligencia Artificial**.
 
