@@ -36,11 +36,23 @@ El proyecto combina **software de control**, **modelos de inteligencia artificia
 
 ```
 ISA-HOME/
-├── Sprint 0/ # Documentación inicial y planificación del proyecto
-├── Sprint 1/ # Avances técnicos y presentaciones parciales
-├── Sprint 2/ # Diseño de marca, naming y documentación visual
-├── LICENSE # Archivo con las licencias aplicables a cada componente
-└── README.md # Descripción general del proyecto
+├── .github/
+│   └── ISSUE_TEMPLATE/               # Plantillas para la gestión de incidencias en GitHub
+│       ├── bug_report.md             # Plantilla para reportar errores o fallos del sistema
+│       └── feature_request.md        # Plantilla para solicitar nuevas funcionalidades
+│
+├── Sprint 0/                         # Documentación inicial y planificación del proyecto
+│
+├── Sprint 1/                         # Avances técnicos y presentación intermedia
+│
+├── Sprint 2/                         # Diseño de marca, modelo de negocio y estándares de comunidad
+│
+├── assets/                           # Carpeta de imágenes y materiales gráficos del proyecto
+├── CODE_OF_CONDUCT.md                # Código de conducta basado en Contributor Covenant v2.1
+├── CONTRIBUTING.md                   # Guía de contribución y flujo de trabajo para colaboradores
+├── LICENSE                           # Licencia general del proyecto y referencias a licencias secundarias
+└── README.md                         # Descripción general del proyecto actualizada (Sprint 2)
+
 ```
 
 
