@@ -25,4 +25,4 @@
 
 ## Conducta y licencias
 - Respeta el **Código de Conducta**.
-- Aceptas que tu contribución se integre bajo las licencias descritas en `LICENSE` y `Sprint 2/Licencias v1.pdf`.
+- Aceptas que tu contribución se integre bajo las licencias descritas en `LICENSE` y `Sprint 2/Propiedad Intelectual/Licencias v1.pdf`.
