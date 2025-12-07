@@ -47,11 +47,15 @@ ISA-HOME/
 │
 ├── Sprint 2/                         # Diseño de marca, modelo de negocio y estándares de comunidad
 │
+├── Sprint 3/                         # Hardware, datasets, evaluación, ética
+│
+├── Sprint 4/                         # Model Card, anexos y entrega final
+│
 ├── assets/                           # Carpeta de imágenes y materiales gráficos del proyecto
 ├── CODE_OF_CONDUCT.md                # Código de conducta basado en Contributor Covenant v2.1
 ├── CONTRIBUTING.md                   # Guía de contribución y flujo de trabajo para colaboradores
 ├── LICENSE                           # Licencia general del proyecto y referencias a licencias secundarias
-└── README.md                         # Descripción general del proyecto actualizada (Sprint 2)
+└── README.md                         # Este documento
 
 ```
 
